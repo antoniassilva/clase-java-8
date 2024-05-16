@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <h1>Quesadillas</h1>
+    <h2>Como hacer la mejor quesadilla</h2>
+    <p>La quesadilla es un platillo típico mexicano elaborado a base de tortilla doblada a la mitad, esta puede ser de maíz o harina de trigo, la cual puede ir rellena de queso o algún guisado como tinga, hongos, papa, flor de calabaza, huitlacoche, entre otros.</p>
+    <p>Aunque en muchos lugres del país se considera que el queso es el ingrediente principal, en la Ciudad de México las quesadillas pueden o no llevar este ingrediente e ir sólo acompañadas de los guisados.</p>
+   
+</body>
+</html>

@@ -1,0 +1,20 @@
+body {background-color: red;}
+
+.padre{ width: 120px;
+        background-color: grey;
+    display: flex;}
+
+.blue{background-color: blue;
+width: 58.33%;}
+
+.yellow{background-color: yellow;
+width: 16.66%;}
+
+.green{background-color: green;
+width: 25%;}
+
+.view{background-color: black;
+width: 38vw;
+height: 50vh;}
+
+@media (min-width: 460px) { body { background: blue; } } 
