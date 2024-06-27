@@ -24,6 +24,5 @@ fetch(`https://rickandmortyapi.com/api/character/${id}`)
         console.log(err);
     });
 
-    Modificar el archivo detalle.js para que el texto "Agregar al carrito" guarde el id del personaje en un array y luego el array se guarde en localStorage. La funcionalidad debe permitir guardar múltiples ids. Probala agregando a diferentes personajes y comprobando que se guarden los ids. 
-    Revisá si los archivos carrito.html y carrito.js están correctamente vinculados.
+   
     
